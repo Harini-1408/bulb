@@ -1,0 +1,19 @@
+img{
+    height: 400px;
+    width: 300px;
+    margin-left: 500px;
+}
+h1{
+    margin: auto;
+    background: burlywood;
+    width: 700px;
+}
+button{
+    width: 100px;
+    height: 50px;
+    border-radius: 15px;
+    margin-left: 600px;
+    margin-top: 10px;
+    background: burlywood;
+
+}
